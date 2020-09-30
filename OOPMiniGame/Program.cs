@@ -6,7 +6,7 @@ namespace OOPMiniGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
